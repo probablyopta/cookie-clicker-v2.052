@@ -1,5 +1,7 @@
 # cookie-clicker-v2.052
 
+Original game at http://orteil.dashnet.org/cookieclicker/
+
 <img src="img/perfectCookie.png" width="128">
 
 Click on "Code". <br>
